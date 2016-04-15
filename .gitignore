@@ -3,5 +3,7 @@
 ################################################################################
 
 /.vs/victorina/v14
-/victorina/obj/Release
+/victorina/obj
 /victorina/bin
+/QuestionCreator/bin
+/QuestionCreator/obj
