@@ -32,7 +32,7 @@ namespace QuestionCreator
             Del_qu_btn.Enabled = false;
             DelAnswer_btn.Enabled = false;
 
-
+            ///
         }
 
         private void toolStripButton1_Click(object sender, EventArgs e)
