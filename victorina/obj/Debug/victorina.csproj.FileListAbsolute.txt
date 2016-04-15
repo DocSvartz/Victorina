@@ -1,0 +1,9 @@
+D:\Code\C#\victorina\victorina\bin\Debug\victorina.exe.config
+D:\Code\C#\victorina\victorina\bin\Debug\victorina.exe
+D:\Code\C#\victorina\victorina\bin\Debug\victorina.pdb
+D:\Code\C#\victorina\victorina\obj\Debug\victorina.csprojResolveAssemblyReference.cache
+D:\Code\C#\victorina\victorina\obj\Debug\victorina.Form1.resources
+D:\Code\C#\victorina\victorina\obj\Debug\victorina.Properties.Resources.resources
+D:\Code\C#\victorina\victorina\obj\Debug\victorina.csproj.GenerateResource.Cache
+D:\Code\C#\victorina\victorina\obj\Debug\victorina.exe
+D:\Code\C#\victorina\victorina\obj\Debug\victorina.pdb

@@ -1,0 +1,12 @@
+D:\Code\C#\victorina\QuestionCreator\bin\Debug\QuestionCreator.exe.config
+D:\Code\C#\victorina\QuestionCreator\bin\Debug\QuestionCreator.exe
+D:\Code\C#\victorina\QuestionCreator\bin\Debug\QuestionCreator.pdb
+D:\Code\C#\victorina\QuestionCreator\obj\Debug\QuestionCreator.Properties.Resources.resources
+D:\Code\C#\victorina\QuestionCreator\obj\Debug\QuestionCreator.csproj.GenerateResource.Cache
+D:\Code\C#\victorina\QuestionCreator\obj\Debug\QuestionCreator.exe
+D:\Code\C#\victorina\QuestionCreator\obj\Debug\QuestionCreator.pdb
+D:\Code\C#\victorina\QuestionCreator\obj\Debug\QuestionCreator.FormQuestionCreator.resources
+D:\Code\C#\victorina\QuestionCreator\obj\Debug\QuestionCreator.csprojResolveAssemblyReference.cache
+D:\GitRepo\Victoryna\Victorina\QuestionCreator\bin\Debug\QuestionCreator.exe.config
+D:\GitRepo\Victoryna\Victorina\QuestionCreator\obj\Debug\QuestionCreator.exe
+D:\GitRepo\Victoryna\Victorina\QuestionCreator\obj\Debug\QuestionCreator.pdb
