@@ -23,7 +23,7 @@ namespace QuestionCreator
                         
         }
 
-        internal Question GEtQuestion
+        public Question GEtQuestion
         {
             get
             {

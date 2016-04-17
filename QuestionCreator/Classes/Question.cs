@@ -93,29 +93,29 @@ namespace victorina
         {
             Textquestion = textquestion;
 
+            /*
+                        //////////////////////////////////////////////         
+                       Random rand = new Random();
+                        bool[] checkarry = new bool[answer.Count];
+                       List<Answer> nAnswer = new List<Answer>();
 
-            //////////////////////////////////////////////         
-           Random rand = new Random();
-            bool[] checkarry = new bool[answer.Count];
-           List<Answer> nAnswer = new List<Answer>();
-                        
-            int count = 0;
+                        int count = 0;
 
-            while (count < answer.Count)   // алгоритм Фишера-Йетса
-            {
-              int rsort = rand.Next(0, answer.Count);
+                        while (count < answer.Count)   // алгоритм Фишера-Йетса
+                        {
+                          int rsort = rand.Next(0, answer.Count);
 
-                if (!checkarry[rsort])
-                {
-                    nAnswer[count++] = answer[rsort];
-                    checkarry[rsort] = true;
-                }
-            }
-            
+                            if (!checkarry[rsort])
+                            {
+                                nAnswer[count++] = answer[rsort];
+                                checkarry[rsort] = true;
+                            }
+                        }
+                        */
             //////////////////////////////////////////////
 
-            tAnswer = nAnswer;
-
+            tAnswer = new List<Answer>(answer);
+/*
             foreach (Answer item in nAnswer)
             {
                 if(item.TrueAnnswer)
@@ -123,7 +123,7 @@ namespace victorina
                     iCorrectAnswer++;
                 }
             }
-
+            */
         
         }
         

@@ -50,6 +50,7 @@
     <Compile Include="Classes\DataContent.cs" />
     <Compile Include="Classes\Generator.cs" />
     <Compile Include="Classes\Question.cs" />
+    <Compile Include="Controller\ReadAddGenerators.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
