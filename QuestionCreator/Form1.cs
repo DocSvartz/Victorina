@@ -135,14 +135,14 @@ namespace QuestionCreator
              DelAnswer_btn.Enabled = true;
                 
 
-            int z = Convert.ToInt32(((TextBox)sender).Tag);
+           // int z = Convert.ToInt32(((TextBox)sender).Tag);
 
-            answertempcount = z;
+           // answertempcount = z;
         }
 
         private void LeaveFocusAnswer(object sender, EventArgs e)
         {
-            DelAnswer_btn.Enabled = false;
+           // DelAnswer_btn.Enabled = false;
         }
 
         private void TexttoAnswer(object sender, EventArgs e)
