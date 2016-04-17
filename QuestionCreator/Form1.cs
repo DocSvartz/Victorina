@@ -166,7 +166,15 @@ namespace QuestionCreator
                 i++;
             }
 
-            
+            if (AnswePanel.Controls.Count == 0)
+            {
+                DelAnswer_btn.Enabled = false;
+            }
+            else
+            {
+                AnswePanel.Controls[AnswePanel.Controls.Count - 1].Focus();
+
+            }
 
         }
 
