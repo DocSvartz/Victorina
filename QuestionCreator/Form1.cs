@@ -57,10 +57,13 @@ namespace QuestionCreator
             QuestionPanel.Controls.Remove(QuestionPanel.Controls[tempcount]);
             counter = Questgeneration.Count;
             int i = 0;
+            string nameof; 
 
             foreach (Button item in QuestionPanel.Controls)
             {
                 item.Tag = i;
+                nameof = "Вопрос " + (i + 1);
+                item.Text = nameof;
                 i++;
             }
 
