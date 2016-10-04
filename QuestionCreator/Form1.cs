@@ -251,5 +251,25 @@ namespace QuestionCreator
             }
             catch { }
         }
+
+        private void сохранитьToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                SaveFileDialog SaveFile = new SaveFileDialog();
+                //SaveFile.Filter = "txt files(*.xml)";
+
+                if (SaveFile.ShowDialog() == DialogResult.OK)
+                {
+
+                }
+
+            }
+
+            catch
+            {
+
+            }
+        }
     }
 }

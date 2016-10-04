@@ -244,7 +244,7 @@
             this.toolStripDropDownButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripDropDownButton1.Image")));
             this.toolStripDropDownButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripDropDownButton1.Name = "toolStripDropDownButton1";
-            this.toolStripDropDownButton1.Size = new System.Drawing.Size(51, 22);
+            this.toolStripDropDownButton1.Size = new System.Drawing.Size(49, 22);
             this.toolStripDropDownButton1.Text = "Файл";
             // 
             // загрузитьToolStripMenuItem
@@ -259,6 +259,7 @@
             this.сохранитьToolStripMenuItem.Name = "сохранитьToolStripMenuItem";
             this.сохранитьToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.сохранитьToolStripMenuItem.Text = "Сохранить";
+            this.сохранитьToolStripMenuItem.Click += new System.EventHandler(this.сохранитьToolStripMenuItem_Click);
             // 
             // toolStripButton3
             // 
@@ -266,14 +267,14 @@
             this.toolStripButton3.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton3.Image")));
             this.toolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton3.Name = "toolStripButton3";
-            this.toolStripButton3.Size = new System.Drawing.Size(64, 22);
+            this.toolStripButton3.Size = new System.Drawing.Size(60, 22);
             this.toolStripButton3.Text = "Помощь";
             // 
             // FormQuestionCreator
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(908, 497);
+            this.ClientSize = new System.Drawing.Size(908, 500);
             this.Controls.Add(this.toolStrip2);
             this.Controls.Add(this.flowLayoutPanel1);
             this.MaximumSize = new System.Drawing.Size(924, 536);

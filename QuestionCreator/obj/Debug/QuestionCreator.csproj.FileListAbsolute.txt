@@ -16,3 +16,12 @@ D:\GitRepo\Victoryna\Victorina\QuestionCreator\obj\Debug\QuestionCreator.csprojR
 D:\GitRepo\Victoryna\Victorina\QuestionCreator\obj\Debug\QuestionCreator.FormQuestionCreator.resources
 D:\GitRepo\Victoryna\Victorina\QuestionCreator\obj\Debug\QuestionCreator.Properties.Resources.resources
 D:\GitRepo\Victoryna\Victorina\QuestionCreator\obj\Debug\QuestionCreator.csproj.GenerateResource.Cache
+C:\Users\DocSv\Source\Repos\Victorina\QuestionCreator\bin\Debug\QuestionCreator.exe.config
+C:\Users\DocSv\Source\Repos\Victorina\QuestionCreator\bin\Debug\QuestionCreator.exe
+C:\Users\DocSv\Source\Repos\Victorina\QuestionCreator\bin\Debug\QuestionCreator.pdb
+C:\Users\DocSv\Source\Repos\Victorina\QuestionCreator\obj\Debug\QuestionCreator.csprojResolveAssemblyReference.cache
+C:\Users\DocSv\Source\Repos\Victorina\QuestionCreator\obj\Debug\QuestionCreator.FormQuestionCreator.resources
+C:\Users\DocSv\Source\Repos\Victorina\QuestionCreator\obj\Debug\QuestionCreator.Properties.Resources.resources
+C:\Users\DocSv\Source\Repos\Victorina\QuestionCreator\obj\Debug\QuestionCreator.csproj.GenerateResource.Cache
+C:\Users\DocSv\Source\Repos\Victorina\QuestionCreator\obj\Debug\QuestionCreator.exe
+C:\Users\DocSv\Source\Repos\Victorina\QuestionCreator\obj\Debug\QuestionCreator.pdb
