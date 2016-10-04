@@ -7,3 +7,6 @@ D:\Code\C#\victorina\victorina\obj\Debug\victorina.Properties.Resources.resource
 D:\Code\C#\victorina\victorina\obj\Debug\victorina.csproj.GenerateResource.Cache
 D:\Code\C#\victorina\victorina\obj\Debug\victorina.exe
 D:\Code\C#\victorina\victorina\obj\Debug\victorina.pdb
+C:\Users\DocSv\Source\Repos\Victorina\victorina\bin\Debug\victorina.exe.config
+C:\Users\DocSv\Source\Repos\Victorina\victorina\obj\Debug\victorina.exe
+C:\Users\DocSv\Source\Repos\Victorina\victorina\obj\Debug\victorina.pdb
